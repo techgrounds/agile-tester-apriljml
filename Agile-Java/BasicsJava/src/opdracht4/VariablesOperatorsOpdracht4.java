@@ -1,6 +1,6 @@
+package opdracht4;
 
-
-public class VariablesOperatorsOpdracht3 {
+public class VariablesOperatorsOpdracht4 {
     public static void main(String[] args) {
         Ben ben = new Ben();
         System.out.println(ben.numberOfCats);
@@ -8,6 +8,6 @@ public class VariablesOperatorsOpdracht3 {
 }
 
 class Ben {
-    int numberOfCats = 10;
+    int numberOfCats = 10 + 5;
 
 }
